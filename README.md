@@ -1,8 +1,5 @@
 # Cat-and-Dog-Image-Classification
 
-My basic task is to create an algorithm to classify whether an image contains a dog or a cat. The input
-for this task is images of dogs or cats from training dataset, while the output is the classification accuracy
-on test dataset
 - Responsibility:1) Explored and research on Cat and Dog data required for Image Classification. 2)Preprocess
 the data(Noise Elimination, Edge Detection, Shape Refinement,etc) 3)Initialize the CNN using
 Sequential model and make some operations like MaxPooling, Add 2nd Convolutional Layer,Conv2D for
